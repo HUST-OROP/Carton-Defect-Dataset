@@ -2,7 +2,7 @@
 
 **Image Resolution**: 4096x3000
 
-![Defect_Image.png](\\wsl.localhost\Ubuntu\home\chen\defect_dataset\Defect_Image.png)
+![Defect_Image.png](https://github.com/Chan-Sun/Carton-Defect-Dataset/blob/master/Defect_Image.png)
 
 | Category   | Breakage | Color | Crease | Scratch | Normal |
 | ---------- | -------- | ----- | ------ | ------- | ------ |
