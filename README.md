@@ -1,14 +1,11 @@
-## Carton Defect Dataset for Image Recognition
+## High-resolution Carton Defect Dataset for Image Recognition
 
-____
 
 This dataset is collected by OROP Team from Huazhong University of Science and Technology. 
 
 
-
 A paper regrading this dataset is now under review. If you are interested in this research, please stay tuned and review our [former research](https://www.researchgate.net/profile/Yiping-Gao/research)
 
-**Image Resolution**: 4096x3000
 
 ![Defect_Image.png](https://github.com/Chan-Sun/Carton-Defect-Dataset/blob/master/Defect_Image.png)
 
